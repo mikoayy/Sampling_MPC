@@ -1,0 +1,4 @@
+gymnasium[mujoco]==1.4.0
+pygame-ce==2.5.8
+numpy==2.5.4
+matplotlib==3.11.2
